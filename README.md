@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 22-26.03.2021  
 **Name:** Emre  
 **Surname:** Duran  
 **Email:** duran.emre.tr@gmail.com  
@@ -13,9 +13,7 @@ Description of your project.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+
 ```
 ---
 
