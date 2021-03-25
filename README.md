@@ -1,4 +1,4 @@
-# GAIH ML Course Student Portfolio
+# GAIH IML Course Student Portfolio
 ![](img/newlogo.png)
 
 **Course Date:** 22-26.03.2021  
