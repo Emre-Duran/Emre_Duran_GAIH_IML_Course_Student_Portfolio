@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GAIH ML Course Student Portfolio
 ![](img/newlogo.png)
 
 **Course Date:** 22-26.03.2021  
